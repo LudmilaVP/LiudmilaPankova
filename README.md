@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Людмила
+<h1 align="center">Hola, my name is Liudmila
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
