@@ -29,11 +29,7 @@
 
 ### Contacts:
 
-<a href="www.linkedin.com/in/pankovaliudmila"><img src="https://www.novistagroup.com/upfile/201908/2019081038667845.jpg" alt="Linkdin" width="40" height="40"/></a>    
-
-<a href="https://t.me/ludoch_ka"><img src="https://www.digiseller.ru/preview/1054211/p1_3294321_131948f0.png" alt="Telegram" width="40" height="40"/></a>    
-
-<a href="llv09295@gmail.com"><img src="https://media.baamboozle.com/uploads/images/48459/1616410229_404721.png" alt="Email" width="40" height="40"/></a>
+<a href="www.linkedin.com/in/pankovaliudmila"><img src="https://cdn.pixabay.com/photo/2017/10/04/11/58/linkedin-2815969_1280.jpg" alt="Linkdin" width="40" height="40"/></a> <a href="https://t.me/ludoch_ka"><img src="https://www.digiseller.ru/preview/1054211/p1_3294321_131948f0.png" alt="Telegram" width="40" height="40"/></a> <a href="llv09295@gmail.com"><img src="https://media.baamboozle.com/uploads/images/48459/1616410229_404721.png" alt="Email" width="40" height="40"/></a>
 
 ### My stats:
  [![LudmilaVP GitHub stats](https://github-readme-stats.vercel.app/api?username=LudmilaVP)](https://github.com/LudmilaVP/github-readme-stats)
