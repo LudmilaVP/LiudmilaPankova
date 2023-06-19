@@ -29,7 +29,7 @@
 
 ### Contacts:
 
-<a href="www.linkedin.com/in/pankovaliudmila"><img src="https://avatanplus.com/files/resources/original/56df0dbaee8c9153574da261.png" alt="Linkdin" width="40" height="40"/></a>    
+<a href="www.linkedin.com/in/pankovaliudmila"><img src="https://www.novistagroup.com/upfile/201908/2019081038667845.jpg" alt="Linkdin" width="40" height="40"/></a>    
 
 <a href="https://t.me/ludoch_ka"><img src="https://www.digiseller.ru/preview/1054211/p1_3294321_131948f0.png" alt="Telegram" width="40" height="40"/></a>    
 
